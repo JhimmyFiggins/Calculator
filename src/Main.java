@@ -296,4 +296,4 @@ public class Main implements ActionListener{
 //                apply BigDecimal on double value.
 // May 17, 2025 - Made some changes in eval using BigDecimal for more accurate answer. Added remainder Check in EvalHelper.
 //                Arrange the proper system of the calculator for finishing product.
-// May 26, 2025 - Pushing this project into github for experimentation.
+// May 26, 2025 - Pushing this project into github for experimentation. It finally worked. Cloning is different than getting an invite.
